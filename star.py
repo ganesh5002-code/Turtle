@@ -1,6 +1,6 @@
 import turtle
 turtle.Screen().bgcolor("Aqua")
-turtle.Screen().setup(1000,2000)
+turtle.Screen().setup(200,100)
 star = turtle.Turtle()
 
 star.forward(100)
